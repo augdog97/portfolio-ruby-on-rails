@@ -163,7 +163,7 @@ a.btn:hover,
 }
 
 .home .jumbotron {
-	background: url(/assets/home-db103bf75e724b89102c607792424914.jpg) center center;
+	background: url(/assets/home.jpg) center center;
 	background-size: cover;
 	min-height: 600px;
 	width: 100%
@@ -292,3 +292,14 @@ a.btn:hover,
 		margin: 0
 	}
 }
+
+.banner { 
+	position: relative;
+	overflow: auto;
+ }
+.banner li { 
+		list-style: none;
+	 }
+.banner ul li { 
+		float: left; 
+		}

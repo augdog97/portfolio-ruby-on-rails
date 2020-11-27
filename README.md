@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple portfolio project using the Ruby On Rails Framework. This project is a work in progress and is not finished. If you would like to run this app please, clone the repo, and run bundle install. 
 
-Things you may want to cover:
+Bugs: 
+1. Unslider is not working, Chrome Dev tools throwing error
+2. Social Media Icons not formatting correctly. 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Future Updates:
+1. Give site slightly more complex styling (clone from Nodejs Portfolio)
